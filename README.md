@@ -1,15 +1,15 @@
 ## Optimal Training of Polynomial Nets with Nonlinear Spectral Methods
+This contains Matlab code for our Nonlinear Spectral Methods presented at NIPS 2016.
 
-Please cite our paper  
+For citation of our paper
 @inproceedings{AQM2016,  
-title={Globally Optimal Training of Generalized Polynomial Neural Networks with Nonlinear Spectral Methods},  
+	title={Globally Optimal Training of Generalized Polynomial Neural Networks with Nonlinear Spectral Methods},  
 	author={A. Gautier and Q. Nguyen and M. Hein},  
 	booktitle={Advances in Neural Information Processing Systems (NIPS)},  
 	year={2016}  
 }  
-if you find this useful for your research.  
 
-The following version presents a general theory for more general class of non-convex optimization problems:  
+The following version presents our general theory for a certain class of non-convex optimization problems:  
 @inproceedings{QAM2016,  
 	title={Nonlinear Spectral Methods for Nonconvex Optimization with Global Optimality},  
 	author={Q. Nguyen and A. Gautier and M. Hein},  
