@@ -17,7 +17,7 @@ The following version presents our general theory for a certain class of non-con
 	year={2016}  
 }  
 
-Installation:
+Installation:  
 	Our code require cvx which can be obtained from: http://cvxr.com/cvx/download/
 
 Guideline:  
