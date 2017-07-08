@@ -1,4 +1,4 @@
-# Optimal Training of Polynomial Nets with Nonlinear Spectral Methods
+## Optimal Training of Polynomial Nets with Nonlinear Spectral Methods
 
 Please cite our paper  
 @inproceedings{AQM2016,  
