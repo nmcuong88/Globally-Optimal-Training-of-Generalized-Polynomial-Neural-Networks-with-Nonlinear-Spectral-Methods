@@ -5,7 +5,7 @@
 % Written by: Quynh Nguyen
 % Last update: 17.05.2016
 %======================================================================
-function model = trainNNet_SGD(nnet, data, algOptions, stepsize, batchRatio, maxDataPass, initW)
+function model = train_SGD(nnet, data, algOptions, stepsize, batchRatio, maxDataPass, initW)
 rng('default');
 
 % network settings
@@ -134,8 +134,8 @@ while iter < itersPerPass*maxDataPass
         % lp-norm sphere normalization
         model.W{l} = cvxProjection(model.W{l}, nnet.layers{l}.mask, nnet.layers{l}.pNorm, nnet.layers{l}.rho, nnet.layers{l}.normType);
     end
-    disp(['SGD-projection takes ', num2str(toc(t1))]);
-    disp(['SGD-iter takes ', num2str(toc(t0))]);
+    %disp(['SGD-projection takes ', num2str(toc(t1))]);
+    %disp(['SGD-iter takes ', num2str(toc(t0))]);
 end % end while
 
 % save the number of required passes through the data
