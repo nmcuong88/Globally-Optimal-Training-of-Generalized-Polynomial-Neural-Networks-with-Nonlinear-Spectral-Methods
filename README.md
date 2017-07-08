@@ -2,7 +2,7 @@
 
 Please cite our paper  
 @inproceedings{AQM2016,  
-	title={Globally Optimal Training of Generalized Polynomial Neural Networks with Nonlinear Spectral Methods},  
+title={Globally Optimal Training of Generalized Polynomial Neural Networks with Nonlinear Spectral Methods},  
 	author={A. Gautier and Q. Nguyen and M. Hein},  
 	booktitle={Advances in Neural Information Processing Systems (NIPS)},  
 	year={2016}  
