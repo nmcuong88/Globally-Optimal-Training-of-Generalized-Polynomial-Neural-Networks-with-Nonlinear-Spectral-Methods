@@ -18,7 +18,7 @@ The following version presents our general theory for a certain class of non-con
 }  
 
 Installation:  
-	Our code require cvx which can be obtained from: http://cvxr.com/cvx/download/
+	cvx is required: http://cvxr.com/cvx/download/
 
 Guideline:  
 Please see the following files to run our experiments  
