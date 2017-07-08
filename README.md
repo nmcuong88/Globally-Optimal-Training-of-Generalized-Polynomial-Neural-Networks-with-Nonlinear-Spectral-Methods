@@ -1,7 +1,7 @@
 ## Optimal Training of Polynomial Nets with Nonlinear Spectral Methods
 This contains Matlab code for our Nonlinear Spectral Methods presented at NIPS 2016.
 
-For citation of our paper
+For citation of our paper  
 @inproceedings{AQM2016,  
 	title={Globally Optimal Training of Generalized Polynomial Neural Networks with Nonlinear Spectral Methods},  
 	author={A. Gautier and Q. Nguyen and M. Hein},  
