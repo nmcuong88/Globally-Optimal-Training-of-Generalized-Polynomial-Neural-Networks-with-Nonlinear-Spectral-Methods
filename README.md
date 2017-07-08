@@ -1,5 +1,6 @@
 # Globally Optimal Training of Generalized Polynomial Neural Networks with Nonlinear Spectral Methods
 
+===================================================================
 Please cite our paper
 @inproceedings{AQM2016,
   title={Globally Optimal Training of Generalized Polynomial Neural Networks with Nonlinear Spectral Methods},
@@ -9,6 +10,7 @@ Please cite our paper
 }
 if you find this useful for your research.
 
+===================================================================
 The following version presents a general theory for more general class of non-convex optimization problems:
 @inproceedings{QAM2016,
   title={Nonlinear Spectral Methods for Nonconvex Optimization with Global Optimality},
@@ -17,6 +19,7 @@ The following version presents a general theory for more general class of non-co
   year={2016}
 }
 
+===================================================================
 Guidelines: 
 Please see the following files to run our experiments
 1. main_NLSM.m: testing our Nonlinear Spectral Methods
