@@ -1,4 +1,4 @@
-## Globally Optimal Training of Generalized Polynomial Neural Networks with Nonlinear Spectral Methods
+### Globally Optimal Training of Generalized Polynomial Neural Networks with Nonlinear Spectral Methods
 
 Please cite our paper  
 @inproceedings{AQM2016,  
