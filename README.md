@@ -1,4 +1,4 @@
-## Optimal Training of Polynomial Nets with Nonlinear Spectral Methods
+## Optimal Training of Polynomial Neural Networks with Nonlinear Spectral Methods
 This repository contains Matlab demo code for our Nonlinear Spectral Methods presented at NIPS 2016.
 
 For citation of our paper  
