@@ -17,7 +17,10 @@ The following version presents our general theory for a certain class of non-con
 	year={2016}  
 }  
 
-Guidelines:  
+Installation:
+	Our code require cvx which can be obtained from: http://cvxr.com/cvx/download/
+
+Guideline:  
 Please see the following files to run our experiments  
 	1. main_NLSM.m: testing our Nonlinear Spectral Methods  
 	2. main_ReLU1.m: testing one-hidden-layer ReLU nets by Batch-SGD  
