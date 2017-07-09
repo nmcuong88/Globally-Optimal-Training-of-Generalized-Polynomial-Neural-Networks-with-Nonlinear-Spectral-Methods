@@ -22,8 +22,8 @@ Installation:
 
 Guideline:  
 Please see the following files to run our experiments  
-	0. NLSM_demo.m: demo our NLSM on cancer/iris dataset 
-	1. main_NLSM.m: testing our Nonlinear Spectral Methods
+	0. NLSM_demo.m: demo our NLSM on cancer/iris dataset  
+	1. main_NLSM.m: testing our Nonlinear Spectral Methods  
 	2. main_ReLU1.m: testing one-hidden-layer ReLU nets by Batch-SGD  
 	3. main_ReLU2.m: testing two-hidden-layer ReLU nets by Batch-SGD  
 
