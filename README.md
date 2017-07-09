@@ -18,8 +18,9 @@ The following version presents our general theory for a certain class of non-con
 }  
 
 Installation:  
-	cvx is required: http://cvxr.com/cvx/download/
-
+	cvx is required: http://cvxr.com/cvx/download/  
+	only for "train_SGD.m" as it requires projection onto p-norm sphere.  
+	
 Guideline:  
 Please see the following files to run our experiments  
 	0. NLSM_demo.m: demo our NLSM on cancer/iris dataset  
